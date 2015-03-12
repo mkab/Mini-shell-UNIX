@@ -27,3 +27,5 @@ Uninstallation:
 To uninstall Minishell, in your Linux terminal, go to the extracted Minishell folder and type: 
 
 "make uninstall".
+
+Please check the manual guide for more details.
